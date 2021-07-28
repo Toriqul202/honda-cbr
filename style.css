@@ -8,6 +8,7 @@ header{
      background: #264653;
    color: white;
 }
+
 h1{
    font-size: 48px;
    font-weight: 600;
@@ -21,6 +22,7 @@ h1{
 #image-1,#image-3{
     filter: grayscale(90%);
 }
+
 
 
 @media screen and (max-width:425px) and (min-width:320px) {
